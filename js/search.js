@@ -60,6 +60,7 @@ $(function() {
       $item.find('h5').text(place['name'])
       $item.find('p').text(place['formatted_address'])
 
+      // add items to temporary container
       $newDivListGroup.append($item)
     }
 
