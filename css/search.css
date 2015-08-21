@@ -1,0 +1,36 @@
+.map-container {
+  position: fixed;
+  top: 200px;
+  right: 8vw;
+}
+
+.map {
+  margin: 0;
+  margin-top: 2rem;
+  padding: 0;
+  height: 20vw;
+  width: 20vw;
+}
+
+.result {
+  height: 100px;
+}
+
+.search-area {
+  margin-bottom: 2rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.result-item img {
+  position: absolute;
+  left: 5%;
+  top: 10%;
+  height: 70%;
+}
+
+.content {
+  margin-left: 15%;
+}
